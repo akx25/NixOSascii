@@ -4,7 +4,7 @@ NixOS .gif animation in Terminal/PowerShell
 
 HOW TO INSTALL: 
 
-First install Python if you haven't yet (https://www.python.org/)¨
+First install Python if you haven't yet (https://www.python.org/)
 
 When Python is installed, copy & paste this to Terminal/PowerShell:
 
